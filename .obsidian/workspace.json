@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Categorical variables.md",
+                "file": "ML/Regressions. Linear regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Categorical variables"
+              "title": "Regressions. Linear regression"
             }
           },
           {
@@ -274,8 +274,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fc87f756051e683",
+  "active": "e94044dcdb38dfcd",
   "lastOpenFiles": [
+    "ML/Categorical variables.md",
     "ML/Feature scaling and working with skips.md",
     "ML/Regressions. Linear regression.md",
     "README.md",
@@ -292,7 +293,6 @@
     "Bucha pics/Pasted image 20260209190747.png",
     "Bucha pics/Pasted image 20260209190739.png",
     "Bucha pics/Pasted image 20260209190725.png",
-    "ML/Categorical variables.md",
     "python data analysis/Statistics/Checks.md",
     "python data analysis/Numpy.md",
     "python data analysis/Pandas.md",
