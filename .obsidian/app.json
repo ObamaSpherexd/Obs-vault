@@ -3,5 +3,7 @@
   "autoPairBrackets": true,
   "spellcheckDictionary": [
     "extremum"
-  ]
+  ],
+  "showLineNumber": false,
+  "rightToLeft": false
 }
