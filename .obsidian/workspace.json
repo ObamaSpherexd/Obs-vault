@@ -1,0 +1,315 @@
+{
+  "main": {
+    "id": "b8e27bf9d670c386",
+    "type": "split",
+    "children": [
+      {
+        "id": "7560090149b9192d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "510ab222c1217961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Categorical variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Categorical variables"
+            }
+          },
+          {
+            "id": "698c1c0c90010c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feature scaling and working with skips.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feature scaling and working with skips"
+            }
+          },
+          {
+            "id": "2f100c8453c2b52c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python data analysis/how to run code in Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "how to run code in Obsidian"
+            }
+          },
+          {
+            "id": "49f1d6dd2de91240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gradient descent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gradient descent"
+            }
+          },
+          {
+            "id": "4ba89d2aac136473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regressions. Linear regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regressions. Linear regression"
+            }
+          },
+          {
+            "id": "b0925636f9dcf9a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/ML intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ML intro"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8393050c71134d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b386b4bf71b34da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fc87f756051e683",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "1e08dff2110f5afa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b0a227190ddacdbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "562f7207aeec51a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a9e3508e29e33f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfcc2928b8bbbe12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Elements of probability theory and mathematical statistics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Elements of probability theory and mathematical statistics"
+            }
+          },
+          {
+            "id": "3e0f6626a40093b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Elements of probability theory and mathematical statistics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Elements of probability theory and mathematical statistics"
+            }
+          },
+          {
+            "id": "a1656920b1be3b94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "5ab8a48ef327033b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Regressions. Linear regression.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Regressions. Linear regression"
+            }
+          },
+          {
+            "id": "69a6ebd8150be6da",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "e09932348e5c9ec3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6fc87f756051e683",
+  "lastOpenFiles": [
+    "README.md",
+    "Gradient descent.md",
+    "Regressions. Linear regression.md",
+    "ML/ML intro.md",
+    "python data analysis/how to run code in Obsidian.md",
+    "Pasted image 20260209200422.png",
+    "Pasted image 20260209200411.png",
+    "Pasted image 20260209194524.png",
+    "Pasted image 20260209194510.png",
+    "Pasted image 20260209194508.png",
+    "Pasted image 20260209190747.png",
+    "Pasted image 20260209190739.png",
+    "Pasted image 20260209190725.png",
+    "Pasted image 20260209190723.png",
+    "Pasted image 20260209190711.png",
+    "Feature scaling and working with skips.md",
+    "Categorical variables.md",
+    "python data analysis/Statistics/Checks.md",
+    "python data analysis/Numpy.md",
+    "python data analysis/Pandas.md",
+    "Bucha pics",
+    "python data analysis/Regular expressions.md",
+    "ML",
+    "python data analysis/Dynamic change of data type in columns.md",
+    "python data analysis/Statistics",
+    "python data analysis",
+    "python data analysis/Vector math.md",
+    "python data analysis/Statistics/Elements of probability theory and mathematical statistics.md",
+    "python data analysis/Statistics/Point estimates.md",
+    "python data analysis/Statistics/Hypothesis and errors.md",
+    "python data analysis/Statistics/Conditional probability.md",
+    "python data analysis/Adding data to DataFrame.md",
+    "Без названия.base",
+    "python data analysis/Basic Python structures.md",
+    "Colab.md",
+    "python data analysis/Visualisation + EDA.md",
+    "PyTorch.md",
+    "python data analysis/Matplotlib.md",
+    "Sys.md",
+    "python data analysis/Functions of the `re` module.md",
+    "python data analysis/Multiple category processing, separating data in columns.md",
+    "Data import",
+    "~$09.ods",
+    "09.xlsx",
+    "3136A200",
+    "~$09.xlsx",
+    "Без названия.canvas"
+  ]
+}
