@@ -11,28 +11,16 @@
             "id": "510ab222c1217961",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Categorical variables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Categorical variables"
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "698c1c0c90010c19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feature scaling and working with skips.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feature scaling and working with skips"
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -44,23 +32,15 @@
                 "file": "python data analysis/how to run code in Obsidian.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "how to run code in Obsidian"
+              }
             }
           },
           {
             "id": "49f1d6dd2de91240",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gradient descent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gradient descent"
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -72,9 +52,19 @@
                 "file": "ML/Regressions. Linear regression.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regressions. Linear regression"
+              }
+            }
+          },
+          {
+            "id": "57871c64df029922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -86,13 +76,11 @@
                 "file": "ML/ML intro.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ML intro"
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -111,11 +99,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+                "sortOrder": "byModifiedTime"
+              }
             }
           },
           {
@@ -130,9 +115,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Поиск"
+              }
             }
           },
           {
@@ -140,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "state": {}
             }
           }
         ]
@@ -165,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elements of probability theory and mathematical statistics.md",
+                "file": "linux test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,9 +154,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для Elements of probability theory and mathematical statistics"
+              }
             }
           },
           {
@@ -184,12 +163,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elements of probability theory and mathematical statistics.md",
+                "file": "linux test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из Elements of probability theory and mathematical statistics"
+              }
             }
           },
           {
@@ -199,12 +176,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Теги"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -213,13 +186,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regressions. Linear regression.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Структура Regressions. Linear regression"
+                "file": "linux test.md"
+              }
             }
           },
           {
@@ -227,9 +195,7 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "state": {}
             }
           },
           {
@@ -237,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           }
         ],
@@ -251,7 +215,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -262,10 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e94044dcdb38dfcd",
+  "active": "57871c64df029922",
   "lastOpenFiles": [
-    "Bucha pics/Pasted image 20260207151131.png",
     "ML/Regressions. Linear regression.md",
+    "linux test.md",
+    "Bucha pics/Pasted image 20260207151131.png",
     "ML/Categorical variables.md",
     "ML/Feature scaling and working with skips.md",
     "README.md",
