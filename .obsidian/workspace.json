@@ -64,18 +64,6 @@
             }
           },
           {
-            "id": "4ba89d2aac136473",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Bucha pics/Pasted image 20260207151131.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260207151131"
-            }
-          },
-          {
             "id": "e94044dcdb38dfcd",
             "type": "leaf",
             "state": {
@@ -104,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -276,12 +264,12 @@
   },
   "active": "e94044dcdb38dfcd",
   "lastOpenFiles": [
+    "Bucha pics/Pasted image 20260207151131.png",
+    "ML/Regressions. Linear regression.md",
     "ML/Categorical variables.md",
     "ML/Feature scaling and working with skips.md",
-    "ML/Regressions. Linear regression.md",
     "README.md",
     "Bucha pics/Pasted image 20260207172757.png",
-    "Bucha pics/Pasted image 20260207151131.png",
     "Bucha pics/Pasted image 20260209200422.png",
     "ML/Gradient descent.md",
     "ML/ML intro.md",
